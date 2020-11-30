@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+# 2020-12 訂定計晝
+
+## 重點
+- 取代權限平台, 使用 IdentityServer 4
+- 取代WebForm, 使用 MVC / Razor Pages
+- 業務logic 和使用者介面UI 分離, 大量使用API
+- 不在 SP (stored procedure) 維護業務logic
+
 
 You can use the [editor on GitHub](https://github.com/dreamaitek/p002/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
